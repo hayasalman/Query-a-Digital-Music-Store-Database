@@ -1,5 +1,5 @@
-####To find out the music genre which has the most customers in Germany
-QUERY 1 \\
+\\ To find out the music genre which has the most customers in Germany \\
+\\ QUERY 1 \\
 SELECT g.name AS Music_type, COUNT(*) AS rank
 FROM Customer c
 JOIN invoice i ON i.customerid = c.customerid 
@@ -10,9 +10,9 @@ WHERE c.country  = 'Germany'
 GROUP BY 1
 ORDER BY 2 DESC ;
 
-\\
-####To find out how albums are differ in period in (Milliseconds)
-Query 2 \\
+
+\\ To find out how albums are differ in period in (Milliseconds) \\
+\\ Query 2 \\
 
 WITH table1 AS (SELECT al.Title album_title, AVG(t.milliseconds), CASE WHEN t.Milliseconds > AVG(t.milliseconds) THEN 'Above'
 ELSE 'Below' END AS period 
@@ -29,8 +29,8 @@ GROUP BY 1;
 
 
 
-####To find out the customer who spent the most money to reward him/her
-QUERY 3 \\
+\\ To find out the customer who spent the most money to reward him/her \\
+\\ QUERY 3 \\
  
 SELECT c.firstname || ' ' || c.lastname AS customer_name , c.email ,c.country , SUM (i.total) AS total_amount
 FROM customer c
@@ -41,8 +41,8 @@ LIMIT 10 ;
 
 \\
 
-####To find out the top five artists of jazz music    
-QUERY 4 \\
+\\ To find out the top five artists of jazz music \\
+\\ QUERY 4 \\
 
 SELECT DISTINCT a.name singer, COUNT(*) songs
 FROM artist a
