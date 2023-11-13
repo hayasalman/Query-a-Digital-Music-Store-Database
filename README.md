@@ -35,7 +35,7 @@ The Chinook Database holds information about a music store, the aim is to assist
 - In Germany , obviously the popular music genre is rock music, followed by metal, latin and blues. whereas, we noticed that the other genres' 
   popularity are gradually decreasing.
 
-- There are 240 albums with a period less than the average 393599.2121 in (millisecond) . While 107 albums its period beyond the average i 
+- There are 240 albums with a period less than the average 393599.2121 in (millisecond) . While 107 albums its period beyond the average in 
   (milliseconds).
 
 - The Chinook team's best customer is called “Helena Holý “ who existed in the Czech Republic and she spent 49.62$, followed by “Richard Cunningham” 
