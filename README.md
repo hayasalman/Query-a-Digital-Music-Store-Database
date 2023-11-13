@@ -14,7 +14,7 @@ The Chinook Database holds information about a music store, the aim is to assist
 ## Coding
 
 - **Toolkit** : DB Browser for SQLite.
-- Querying language: SQL.
+- **Querying language**: SQL.
 
 ## Approches & Methodologies
 
