@@ -15,9 +15,9 @@ The Chinook Database holds information about a music store, the aim is to assist
 
 To query the database:
 
-First, we need to set up **DB Browser for SQLite** on local environment.
+First, we need to set up a **DB Browser for SQLite** on the local environment.
 
-DB Browser for SQLite can be downloaded from [here](https://sqlitebrowser.org/dl/) in the downloads sections. Choose the right version (Windows/Mac) for your computer setup.
+DB Browser for SQLite can be downloaded from [here](https://sqlitebrowser.org/dl/) in the downloads sections, choose the right version (Windows/Mac) for your computer setup.
 
 ## Coding
 
