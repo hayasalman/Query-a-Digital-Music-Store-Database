@@ -11,6 +11,14 @@ The Chinook Database holds information about a music store, the aim is to assist
   
 - Data source stored as DB file and can be accessed through this link : [Chinook Database](https://github.com/hayasalman/Music-SQL-Database/blob/main/chinook.db)
 
+## Installation
+
+To query the database:
+
+First, we need to set up **DB Browser for SQLite** on local environment.
+
+DB Browser for SQLite can be downloaded from [here](https://sqlitebrowser.org/dl/) in the downloads sections. Choose the right version (Windows/Mac) for your computer setup.
+
 ## Coding
 
 - **Toolkit** : DB Browser for SQLite.
