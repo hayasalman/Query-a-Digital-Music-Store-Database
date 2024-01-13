@@ -36,6 +36,7 @@ The Chinook Database holds information about a music store, the aim is to assist
 
 ## Refrences
 
-[Chinook Database Insights & Visualizations](https://github.com/hayasalman/Music-SQL-Database/blob/main/SQLProject.pdf)
-[Chinook Database Queries](https://github.com/hayasalman/Music-SQL-Database/blob/main/SQL.txt)
+- [Chinook Database Insights & Visualizations](https://github.com/hayasalman/Music-SQL-Database/blob/main/SQLProject.pdf)
+
+- [Chinook Database Queries](https://github.com/hayasalman/Music-SQL-Database/blob/main/SQL.txt)
   
