@@ -1,7 +1,6 @@
 ## Query a Digital Music Store Database
 
-
-![digital-music-logo-vector-20975136-2.jpg](attachment:digital-music-logo-vector-20975136-2.jpg)
+![digital-music-logo-vector-20975136](https://github.com/hayasalman/Query-a-Digital-Music-Store-Database/assets/71796909/e57de3d6-f500-49c8-9cbd-064c96167dea)
 
 ## Overview
 
@@ -38,3 +37,5 @@ The Chinook Database holds information about a music store, the aim is to assist
 ## Refrences
 
 [Chinook Database Insights & Visualizations](https://github.com/hayasalman/Music-SQL-Database/blob/main/SQLProject.pdf)
+[Chinook Database Queries](https://github.com/hayasalman/Music-SQL-Database/blob/main/SQL.txt)
+  
